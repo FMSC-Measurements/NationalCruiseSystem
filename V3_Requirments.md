@@ -18,28 +18,56 @@
  - Process (using processing web service)
  - View/Edit/Create region/forest level template info
  
- 
 
-### Web
----- 
+### Web Application National Cruise 
+---------------------------------- 
 
-#### Auth service
-Authenticate non-forest service users, for forest service users we can probably use e-auth
+###Provision Servers
+	Dev - Requested and Pending provisioning.
+	Test - Architecture Approval Needed
+	Prod - Architecture Approval Needed
+	
+#### EAD CI pipeline / Github
 
-#### Database
-A super set of the design used for SQLite, includes user model, as well as organizations and teams
+### User Roles:
+	Define user roles and actions.
+	
+#### Authentication service
+	Login.gov for externals  (proof of concept)
+	Eauth for Internals (FSAPPS)
+	
+#### Security Review
+	Transferring data to and from the national cruise system to mobile devices. 
+	(could require specific architecture design decisions. )
 
-#### Processing service
-Processes cruise data and generates output documents
+#### National Database
+	A super set of the design used for SQLite, includes user model, as well as organizations and teams
+	Processing / Stats tables or views for speed.
 
-#### Sync Service
-Ingest cruise data and merge with database
+#### Web Interface
+	Everything that desktop application does plus:
+	- manage users, organizations and teams
+	- control user access to projects based on roles, orgs and teams
+	- view generated reports and manage stored reports
 
-#### Cruise Template Service
- - 
+#### Cruise Template Service	
 
-#### Web Application
- Everything that desktop application does plus:
- - manage users, organizations and teams
- - control user access to projects based on roles, orgs and teams
- - view generated reports and manage stored reports
+#### Upload data Service
+	Ingest cruise data and merge with database
+
+#### Processing Service
+	Processes cruise data
+	Compiles Stats
+
+#### Reporting Services
+	Gather Requirements on what is a report vs data check.
+	
+#### Testing White box Internal 
+	Develop test plan / cases
+	
+#### Testing Black box
+	User Acceptance Testing
+	
+#### Release Management and Deployment 
+
+#### Training and Documentation
