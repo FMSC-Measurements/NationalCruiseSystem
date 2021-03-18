@@ -11,18 +11,26 @@
  - Cruise Data entry
  - View Cruise Data in data grid that allows filtering and ordering
  - Merge cruise files
+
+ - View/Edit/Create region/forest level template info
+	- Edit tree default values
+	- Edit Audit Rules
+
+  	dont need
+	- edit volEq
+	- edit reports
+	
  - Export data as csv, excel, pdf
  - Import data as csv, excel (low priority)
- - Design and optimize Cruises based on historical/recon data 
- - View/Edit processing settings (Volume Equations, Reports,  Tree Defaults, ...)
- - Process (using processing web service)
- - View/Edit/Create region/forest level template info
+
+ x Design and optimize Cruises based on historical/recon data 
+ x View/Edit processing settings (Volume Equations, Reports,  Tree Defaults, ...)
  
 
 ### Web Application National Cruise 
 ---------------------------------- 
 
-###Provision Servers
+### Provision Servers
 	Dev - Requested and Pending provisioning.
 	Test - Architecture Approval Needed
 	Prod - Architecture Approval Needed
