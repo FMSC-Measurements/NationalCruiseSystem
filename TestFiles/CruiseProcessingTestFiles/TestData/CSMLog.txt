@@ -1,0 +1,1329 @@
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+CruiseSystemManager.vshost.exe Information: 0 : Application Ended @05/22/2013 13:16:02
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeDefaultValueTreeAuditValueDO | -15 | IsPersisted = False
+Info: Saving DO | TreeDefaultValueTreeAuditValueDO | -15 | IsPersisted = False
+Info: Saving DO | TreeDefaultValueTreeAuditValueDO | -15 | IsPersisted = False
+Info: Saving DO | TreeDefaultValueTreeAuditValueDO | -15 | IsPersisted = False
+Info: Saving DO | TreeDefaultValueTreeAuditValueDO | -15 | IsPersisted = False
+Info: Saving DO | TreeDefaultValueTreeAuditValueDO | -15 | IsPersisted = False
+Info: Saving DO | TreeDefaultValueTreeAuditValueDO | -15 | IsPersisted = False
+Info: Saving DO | TreeDefaultValueTreeAuditValueDO | -15 | IsPersisted = False
+Info: Saving DO | TreeDefaultValueTreeAuditValueDO | -15 | IsPersisted = False
+Info: Saving DO | TreeDefaultValueTreeAuditValueDO | -15 | IsPersisted = False
+Info: Saving DO | TreeDefaultValueTreeAuditValueDO | -15 | IsPersisted = False
+Info: Saving DO | TreeDefaultValueTreeAuditValueDO | -15 | IsPersisted = False
+Info: Saving DO | TreeDefaultValueTreeAuditValueDO | -15 | IsPersisted = False
+Info: Saving DO | TreeDefaultValueTreeAuditValueDO | -15 | IsPersisted = False
+Info: Saving DO | TreeDefaultValueTreeAuditValueDO | -15 | IsPersisted = False
+Info: Saving DO | TreeDefaultValueTreeAuditValueDO | -15 | IsPersisted = False
+Info: Saving DO | TreeDefaultValueTreeAuditValueDO | -15 | IsPersisted = False
+Info: Saving DO | TreeDefaultValueTreeAuditValueDO | -15 | IsPersisted = False
+Info: Saving DO | TreeDefaultValueTreeAuditValueDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+SQLite error (19): abort at 21 in [INSERT INTO TreeFieldSetup(Field, FieldOrder, ColumnType, Heading, Width, Format, Behavior, Stratum_CN)
+			    VALUES(@Field, @FieldOrder, @ColumnType, @Heading, @Width, @Format, @Behavior, @S
+System.Transactions Critical: 0 : <TraceRecord xmlns="http://schemas.microsoft.com/2004/10/E2ETraceEvent/TraceRecord" Severity="Critical"><TraceIdentifier>http://msdn.microsoft.com/TraceCodes/System/ActivityTracing/2004/07/Reliability/Exception/Unhandled</TraceIdentifier><Description>Unhandled exception</Description><AppDomain>CruiseSystemManager.vshost.exe</AppDomain><Exception><ExceptionType>System.Data.SQLite.SQLiteException, System.Data.SQLite, Version=1.0.81.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139</ExceptionType><Message>Abort due to constraint violation
+columns Stratum_CN, Field are not unique</Message><StackTrace>   at CruiseDAL.DAL.ExecuteScalar(SQLiteCommand command) in C:\Development\CSharp\CruiseDAL\Trunk\CruiseDAL\DAL.cs:line 891
+   at CruiseDAL.DataObject.Save() in C:\Development\CSharp\CruiseDAL\Trunk\CruiseDAL\DataObjects_Base.cs:line 206
+   at CSM.UI.CruiseCustomize.CustomizeCruisePresenter.Save() in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\UI\CruiseCustomize\CustomizeCruisePresenter.cs:line 475
+   at CSM.UI.CruiseCustomize.CustomizeCruisePresenter.HandleSave() in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\UI\CruiseCustomize\CustomizeCruisePresenter.cs:line 520
+   at CSM.WindowPresenter.set_ActivePresentor(IPresentor value) in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\Logic\WindowPresenter.cs:line 68
+   at CSM.WindowPresenter.ShowCustomizeCruiseLayout() in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\Logic\WindowPresenter.cs:line 290
+   at CSM.WindowPresenter.HandleCruiseCustomizeClick(Object sender, EventArgs e) in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\Logic\WindowPresenter.cs:line 215
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message&amp;amp; m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.Button.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message&amp;amp; m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG&amp;amp; msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(Int32 dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at CSM.WindowPresenter.Run() in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\Logic\WindowPresenter.cs:line 81
+   at CSM.Program.Main() in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\Program.cs:line 56
+   at System.AppDomain._nExecuteAssembly(Assembly assembly, String[] args)
+   at System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   at Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssembly()
+   at System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()</StackTrace><ExceptionString>System.Data.SQLite.SQLiteException: Abort due to constraint violation
+columns Stratum_CN, Field are not unique
+   at CruiseDAL.DAL.ExecuteScalar(SQLiteCommand command) in C:\Development\CSharp\CruiseDAL\Trunk\CruiseDAL\DAL.cs:line 891
+   at CruiseDAL.DataObject.Save() in C:\Development\CSharp\CruiseDAL\Trunk\CruiseDAL\DataObjects_Base.cs:line 206
+   at CSM.UI.CruiseCustomize.CustomizeCruisePresenter.Save() in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\UI\CruiseCustomize\CustomizeCruisePresenter.cs:line 475
+   at CSM.UI.CruiseCustomize.CustomizeCruisePresenter.HandleSave() in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\UI\CruiseCustomize\CustomizeCruisePresenter.cs:line 520
+   at CSM.WindowPresenter.set_ActivePresentor(IPresentor value) in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\Logic\WindowPresenter.cs:line 68
+   at CSM.WindowPresenter.ShowCustomizeCruiseLayout() in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\Logic\WindowPresenter.cs:line 290
+   at CSM.WindowPresenter.HandleCruiseCustomizeClick(Object sender, EventArgs e) in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\Logic\WindowPresenter.cs:line 215
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message&amp;amp; m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.Button.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message&amp;amp; m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG&amp;amp; msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(Int32 dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at CSM.WindowPresenter.Run() in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\Logic\WindowPresenter.cs:line 81
+   at CSM.Program.Main() in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\Program.cs:line 56
+   at System.AppDomain._nExecuteAssembly(Assembly assembly, String[] args)
+   at System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   at Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssembly()
+   at System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()</ExceptionString></Exception></TraceRecord>
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TallyDO | -15 | IsPersisted = False
+Info: Saving DO | TallyDO | -15 | IsPersisted = False
+Info: Saving DO | TallyDO | -15 | IsPersisted = False
+Info: Saving DO | TallyDO | -15 | IsPersisted = False
+Info: Saving DO | TallyDO | 15 | IsPersisted = False
+Info: Saving DO | TallyDO | 15 | IsPersisted = False
+Info: Saving DO | TallyDO | 15 | IsPersisted = False
+Info: Saving DO | TallyDO | 15 | IsPersisted = False
+Info: Saving DO | TallyDO | -15 | IsPersisted = False
+Info: Saving DO | TallyDO | -15 | IsPersisted = False
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Info: Saving DO | TallyDO | 15 | IsPersisted = False
+Info: Saving DO | TallyDO | -15 | IsPersisted = False
+Info: Saving DO | TallyDO | 15 | IsPersisted = False
+Info: Saving DO | TallyDO | 15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | StratumDO | 15 | IsPersisted = True
+Info: Saving DO | StratumDO | 15 | IsPersisted = True
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TallyDO | -15 | IsPersisted = False
+Info: Saving DO | TallyDO | -15 | IsPersisted = False
+Info: Saving DO | TallyDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TallyDO | -15 | IsPersisted = False
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Info: Saving DO | TallyDO | 15 | IsPersisted = False
+Info: Saving DO | TallyDO | 15 | IsPersisted = False
+Info: Saving DO | TallyDO | 15 | IsPersisted = False
+Info: Saving DO | TallyDO | 15 | IsPersisted = False
+Info: Saving DO | TallyDO | 15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TallyDO | -15 | IsPersisted = False
+Info: Saving DO | TallyDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Info: Saving DO | TallyDO | 15 | IsPersisted = False
+Info: Saving DO | TallyDO | 15 | IsPersisted = False
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+SQLite error (19): abort at 21 in [INSERT INTO TreeFieldSetup(Field, FieldOrder, ColumnType, Heading, Width, Format, Behavior, Stratum_CN)
+			    VALUES(@Field, @FieldOrder, @ColumnType, @Heading, @Width, @Format, @Behavior, @S
+System.Transactions Critical: 0 : <TraceRecord xmlns="http://schemas.microsoft.com/2004/10/E2ETraceEvent/TraceRecord" Severity="Critical"><TraceIdentifier>http://msdn.microsoft.com/TraceCodes/System/ActivityTracing/2004/07/Reliability/Exception/Unhandled</TraceIdentifier><Description>Unhandled exception</Description><AppDomain>CruiseSystemManager.vshost.exe</AppDomain><Exception><ExceptionType>System.Data.SQLite.SQLiteException, System.Data.SQLite, Version=1.0.81.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139</ExceptionType><Message>Abort due to constraint violation
+columns Stratum_CN, Field are not unique</Message><StackTrace>   at CruiseDAL.DAL.ExecuteScalar(SQLiteCommand command) in C:\Development\CSharp\CruiseDAL\Trunk\CruiseDAL\DAL.cs:line 891
+   at CruiseDAL.DataObject.Save() in C:\Development\CSharp\CruiseDAL\Trunk\CruiseDAL\DataObjects_Base.cs:line 206
+   at CSM.UI.CruiseCustomize.CustomizeCruisePresenter.Save() in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\UI\CruiseCustomize\CustomizeCruisePresenter.cs:line 475
+   at CSM.UI.CruiseCustomize.CustomizeCruisePresenter.HandleSave() in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\UI\CruiseCustomize\CustomizeCruisePresenter.cs:line 520
+   at CSM.WindowPresenter.set_ActivePresentor(IPresentor value) in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\Logic\WindowPresenter.cs:line 68
+   at CSM.WindowPresenter.HandleEditViewCruiseClick(Object sender, EventArgs e) in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\Logic\WindowPresenter.cs:line 194
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message&amp;amp; m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.Button.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message&amp;amp; m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG&amp;amp; msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(Int32 dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at CSM.WindowPresenter.Run() in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\Logic\WindowPresenter.cs:line 81
+   at CSM.Program.Main() in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\Program.cs:line 56
+   at System.AppDomain._nExecuteAssembly(Assembly assembly, String[] args)
+   at System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   at Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssembly()
+   at System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()</StackTrace><ExceptionString>System.Data.SQLite.SQLiteException: Abort due to constraint violation
+columns Stratum_CN, Field are not unique
+   at CruiseDAL.DAL.ExecuteScalar(SQLiteCommand command) in C:\Development\CSharp\CruiseDAL\Trunk\CruiseDAL\DAL.cs:line 891
+   at CruiseDAL.DataObject.Save() in C:\Development\CSharp\CruiseDAL\Trunk\CruiseDAL\DataObjects_Base.cs:line 206
+   at CSM.UI.CruiseCustomize.CustomizeCruisePresenter.Save() in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\UI\CruiseCustomize\CustomizeCruisePresenter.cs:line 475
+   at CSM.UI.CruiseCustomize.CustomizeCruisePresenter.HandleSave() in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\UI\CruiseCustomize\CustomizeCruisePresenter.cs:line 520
+   at CSM.WindowPresenter.set_ActivePresentor(IPresentor value) in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\Logic\WindowPresenter.cs:line 68
+   at CSM.WindowPresenter.HandleEditViewCruiseClick(Object sender, EventArgs e) in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\Logic\WindowPresenter.cs:line 194
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message&amp;amp; m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.Button.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message&amp;amp; m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG&amp;amp; msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(Int32 dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at CSM.WindowPresenter.Run() in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\Logic\WindowPresenter.cs:line 81
+   at CSM.Program.Main() in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\Program.cs:line 56
+   at System.AppDomain._nExecuteAssembly(Assembly assembly, String[] args)
+   at System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   at Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssembly()
+   at System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()</ExceptionString></Exception></TraceRecord>
+Info: Saving DO | StratumDO | 15 | IsPersisted = True
+Info: Saving DO | StratumDO | 15 | IsPersisted = True
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | StratumDO | 15 | IsPersisted = True
+Info: Saving DO | StratumDO | 15 | IsPersisted = True
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Info: Saving DO | TallyDO | 15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TallyDO | -15 | IsPersisted = False
+Info: Saving DO | TallyDO | -15 | IsPersisted = False
+Info: Saving DO | TallyDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Info: Saving DO | TallyDO | 15 | IsPersisted = False
+Info: Saving DO | TallyDO | 15 | IsPersisted = False
+Info: Saving DO | TallyDO | 15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TallyDO | -15 | IsPersisted = False
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Info: Saving DO | TallyDO | 15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Info: Saving DO | TallyDO | 15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | StratumDO | 15 | IsPersisted = True
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | StratumDO | 15 | IsPersisted = True
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Warning: TreeAuditValueParser: Try read Bool failed, returned null, actual: False (Boolean)
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+Info: Saving DO | TreeFieldSetupDO | -15 | IsPersisted = False
+CruiseSystemManager.vshost.exe Information: 0 : Application Ended @05/23/2013 12:27:25
+CruiseSystemManager.vshost.exe Information: 0 : Application Ended @05/31/2013 08:46:12
+SQLite error (19): abort at 11 in [INSERT OR Fail INTO Tally(Hotkey, Description, IndicatorValue, IndicatorType) VALUES(@Hotkey, @Description, @IndicatorValue, @IndicatorType);]: Tally.Hotkey may not be NULL
+System.Transactions Critical: 0 : <TraceRecord xmlns="http://schemas.microsoft.com/2004/10/E2ETraceEvent/TraceRecord" Severity="Critical"><TraceIdentifier>http://msdn.microsoft.com/TraceCodes/System/ActivityTracing/2004/07/Reliability/Exception/Unhandled</TraceIdentifier><Description>Unhandled exception</Description><AppDomain>CruiseSystemManager.vshost.exe</AppDomain><Exception><ExceptionType>System.Data.SQLite.SQLiteException, System.Data.SQLite, Version=1.0.81.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139</ExceptionType><Message>Abort due to constraint violation
+Tally.Hotkey may not be NULL</Message><StackTrace>   at CruiseDAL.DAL.ExecuteScalar(SQLiteCommand command) in C:\Development\CSharp\CruiseDAL\Trunk\CruiseDAL\DAL.cs:line 1066
+   at CruiseDAL.DataObject.Save(OnConflictOption option) in C:\Development\CSharp\CruiseDAL\Trunk\CruiseDAL\DataObjects_Base.cs:line 230
+   at CruiseDAL.DataObject.Save() in C:\Development\CSharp\CruiseDAL\Trunk\CruiseDAL\DataObjects_Base.cs:line 192
+   at CSM.UI.CruiseCustomize.CustomizeCruisePresenter.SaveTallies(SampleGroupViewModel sgVM) in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\UI\CruiseCustomize\CustomizeCruisePresenter.cs:line 410
+   at CSM.UI.CruiseCustomize.CustomizeCruisePresenter.Save() in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\UI\CruiseCustomize\CustomizeCruisePresenter.cs:line 495
+   at CSM.UI.CruiseCustomize.CustomizeCruisePresenter.HandleAppClosing(Object sender, FormClosingEventArgs e) in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\UI\CruiseCustomize\CustomizeCruisePresenter.cs:line 525
+   at CSM.WindowPresenter.HandleAppClosing(Object sender, FormClosingEventArgs e) in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\Logic\WindowPresenter.cs:line 181
+   at System.Windows.Forms.Form.OnFormClosing(FormClosingEventArgs e)
+   at System.Windows.Forms.Form.WmClose(Message&amp;amp; m)
+   at System.Windows.Forms.Form.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message&amp;amp; m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.CallWindowProc(IntPtr wndProc, IntPtr hWnd, Int32 msg, IntPtr wParam, IntPtr lParam)
+   at System.Windows.Forms.NativeWindow.DefWndProc(Message&amp;amp; m)
+   at System.Windows.Forms.Form.DefWndProc(Message&amp;amp; m)
+   at System.Windows.Forms.Control.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.Form.WmSysCommand(Message&amp;amp; m)
+   at System.Windows.Forms.Form.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message&amp;amp; m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.CallWindowProc(IntPtr wndProc, IntPtr hWnd, Int32 msg, IntPtr wParam, IntPtr lParam)
+   at System.Windows.Forms.NativeWindow.DefWndProc(Message&amp;amp; m)
+   at System.Windows.Forms.Form.DefWndProc(Message&amp;amp; m)
+   at System.Windows.Forms.Control.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.Form.WmNcButtonDown(Message&amp;amp; m)
+   at System.Windows.Forms.Form.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message&amp;amp; m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG&amp;amp; msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(Int32 dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at CSM.WindowPresenter.Run() in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\Logic\WindowPresenter.cs:line 81
+   at CSM.Program.Main() in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\Program.cs:line 56
+   at System.AppDomain._nExecuteAssembly(Assembly assembly, String[] args)
+   at System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   at Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssembly()
+   at System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()</StackTrace><ExceptionString>System.Data.SQLite.SQLiteException: Abort due to constraint violation
+Tally.Hotkey may not be NULL
+   at CruiseDAL.DAL.ExecuteScalar(SQLiteCommand command) in C:\Development\CSharp\CruiseDAL\Trunk\CruiseDAL\DAL.cs:line 1066
+   at CruiseDAL.DataObject.Save(OnConflictOption option) in C:\Development\CSharp\CruiseDAL\Trunk\CruiseDAL\DataObjects_Base.cs:line 230
+   at CruiseDAL.DataObject.Save() in C:\Development\CSharp\CruiseDAL\Trunk\CruiseDAL\DataObjects_Base.cs:line 192
+   at CSM.UI.CruiseCustomize.CustomizeCruisePresenter.SaveTallies(SampleGroupViewModel sgVM) in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\UI\CruiseCustomize\CustomizeCruisePresenter.cs:line 410
+   at CSM.UI.CruiseCustomize.CustomizeCruisePresenter.Save() in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\UI\CruiseCustomize\CustomizeCruisePresenter.cs:line 495
+   at CSM.UI.CruiseCustomize.CustomizeCruisePresenter.HandleAppClosing(Object sender, FormClosingEventArgs e) in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\UI\CruiseCustomize\CustomizeCruisePresenter.cs:line 525
+   at CSM.WindowPresenter.HandleAppClosing(Object sender, FormClosingEventArgs e) in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\Logic\WindowPresenter.cs:line 181
+   at System.Windows.Forms.Form.OnFormClosing(FormClosingEventArgs e)
+   at System.Windows.Forms.Form.WmClose(Message&amp;amp; m)
+   at System.Windows.Forms.Form.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message&amp;amp; m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.CallWindowProc(IntPtr wndProc, IntPtr hWnd, Int32 msg, IntPtr wParam, IntPtr lParam)
+   at System.Windows.Forms.NativeWindow.DefWndProc(Message&amp;amp; m)
+   at System.Windows.Forms.Form.DefWndProc(Message&amp;amp; m)
+   at System.Windows.Forms.Control.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.Form.WmSysCommand(Message&amp;amp; m)
+   at System.Windows.Forms.Form.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message&amp;amp; m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.CallWindowProc(IntPtr wndProc, IntPtr hWnd, Int32 msg, IntPtr wParam, IntPtr lParam)
+   at System.Windows.Forms.NativeWindow.DefWndProc(Message&amp;amp; m)
+   at System.Windows.Forms.Form.DefWndProc(Message&amp;amp; m)
+   at System.Windows.Forms.Control.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.Form.WmNcButtonDown(Message&amp;amp; m)
+   at System.Windows.Forms.Form.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message&amp;amp; m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message&amp;amp; m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG&amp;amp; msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(Int32 dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at CSM.WindowPresenter.Run() in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\Logic\WindowPresenter.cs:line 81
+   at CSM.Program.Main() in C:\Development\CSharp\CruiseSystemManager\Trunk\CruiseSystemManager\Program.cs:line 56
+   at System.AppDomain._nExecuteAssembly(Assembly assembly, String[] args)
+   at System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   at Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssembly()
+   at System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()</ExceptionString></Exception></TraceRecord>
